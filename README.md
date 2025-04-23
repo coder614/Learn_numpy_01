@@ -1,4 +1,4 @@
-# This is my basic numpy questions with programes 
+# This is the basic numpy questions with programes.
 - Q1: Create a 3X3 array filled with random numbers and print its shape.
 - Q2: Convert an array of floats[1.1, 2.2, 3.3] into integers.
 - Q3: Use fancy indexing to extract even numbers from this array[1,2,3,4,5,6,7,8,9,10].
